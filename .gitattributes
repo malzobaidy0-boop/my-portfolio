@@ -1,0 +1,6 @@
+dist/**/*.html linguist-generated=false
+dist/**/*.css linguist-generated=false
+dist/**/*.js linguist-generated=false
+
+dist/**/*.pdf linguist-generated=true
+dist/**/*.webp linguist-generated=true
