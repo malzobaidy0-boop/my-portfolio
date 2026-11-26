@@ -1,6 +1,9 @@
-dist/**/*.html linguist-generated=false
-dist/**/*.css linguist-generated=false
-dist/**/*.js linguist-generated=false
+/dist/*.html -linguist-generated
+/dist/**/*.html -linguist-generated
+/dist/*.css -linguist-generated
+/dist/**/*.css -linguist-generated
+/dist/*.js -linguist-generated
+/dist/**/*.js -linguist-generated
 
 dist/**/*.pdf linguist-generated=true
 dist/**/*.webp linguist-generated=true
